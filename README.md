@@ -3,7 +3,7 @@
 # Advait Desai
 
 *I build things — trading algorithms, walking robots, full-stack apps.*  
-*As a hobby, I also write competitive code.*
+*As a professional hobby, I also write competitive code.*
 
 [![Mail](https://img.shields.io/badge/-advaitdesai0702@gmail.com-000?style=flat&logo=gmail&logoColor=white)](mailto:advaitdesai0702@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/advait-desai-3494ab144)
@@ -55,13 +55,11 @@
 
 ---
 
-### github stats
+### github activity
 
 <div align="center">
 
-![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advait2211&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Advait2211&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=aaaaaa)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Advait2211&theme=dark&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=aaaaaa&dates=555555)](https://github.com/Advait2211)
 
 </div>
 
