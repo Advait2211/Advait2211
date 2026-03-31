@@ -2,7 +2,7 @@
 
 # Advait Desai
 
-*I build things — trading algorithms, walking robots, full-stack apps.*  
+*I tinker with stuff. trading algorithms, walking robots, full-stack apps.*  
 *As a professional hobby, I also write competitive code.*
 
 [![Mail](https://img.shields.io/badge/-advaitdesai0702@gmail.com-000?style=flat&logo=gmail&logoColor=white)](mailto:advaitdesai0702@gmail.com)
