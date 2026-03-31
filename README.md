@@ -17,6 +17,8 @@
 ### About me
 
 - 🎓 IT undergrad at **VJTI Mumbai** (2024–2027)
+- 🏤 Upcoming intern at **BNY**
+- 💼 Ex-Intern at **W.E.-Matter Private Limited** (Incubated in SPIT)
 - 📈 built & deployed freelance **algo trading systems** on AWS EC2
 - 🤖 training a **quadruped robot** to walk using RL (PPO + MuJoCo)
 - 🌐 shipped real-world full-stack apps with **MERN** and **Next.js**
